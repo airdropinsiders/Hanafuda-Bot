@@ -1,23 +1,23 @@
 # Hanafuda Auto Deposit + AutoTap Script
 
-Skrip Python ini digunakan untuk mengirimkan transaksi otomatis berupa deposit ETH ke kontrak tertentu di jaringan HANA Network. Skrip menggunakan `web3.py` untuk koneksi blockchain dan `colorama` untuk tampilan warna di terminal.
+This Python script is used to send automatic transactions in the form of ETH deposits to certain contracts on the HANA Network. The script uses `web3.py` for blockchain connection and `colorama` for color display in the terminal.
 
-## Fitur
+## Features
 
-- Pengiriman transaksi otomatis dalam batch dari beberapa alamat
-- Notifikasi kesalahan jika terjadi kegagalan transaksi
-- Pengecekan dan penyesuaian nonce untuk setiap transaksi
-- Pencatatan waktu eksekusi untuk setiap transaksi
-- Output berwarna untuk kemudahan pemantauan
+- Automatic sending of transactions in batches from multiple addresses
+- Error notification if a transaction fails
+- Checking and adjusting nonce for each transaction
+- Recording execution time for each transaction
+- Colored output for easy monitoring
 
-## Prasyarat
+## Prerequisites
 
 - Python 3.x
-- Akses ke node Ethereum (disarankan RPC URL yang valid, seperti Infura atau node sendiri)
+- Access to an Ethereum node (a valid RPC URL is recommended, such as Infura or your own node)
 
 ## Instalasi
 
-1. **Clone repositori ini:**
+1. **Clone Repository:**
    ```bash
    git clone https://github.com/airdropinsiders/Hanafuda-Bot.git
    cd Hanafuda-Bot
