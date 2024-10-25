@@ -2,6 +2,15 @@
 
 This Python script is used to send automatic transactions in the form of ETH deposits to certain contracts on the HANA Network. The script uses `web3.py` for blockchain connection and `colorama` for color display in the terminal.
 
+## Register with HanaFuda (Hana Network)
+
+- https://hanafuda.hana.network
+- 𝗨𝘀𝗲 𝗮𝗰𝗰𝗲𝘀𝘀 𝗰𝗼𝗱𝗲: 21OM73
+- Deposit $0,5- $1 in ARB or BASE network for low gas fees
+- Go to dashboard
+- Earn Points via Grow and Draw Hanafuda
+- WIthdraw start early Q1 2025 
+
 ## Features
 
 - Automatic sending of transactions in batches from multiple addresses
